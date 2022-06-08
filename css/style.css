@@ -1,9 +1,13 @@
+body {
+    
+}
 .navbar {
     background-color: #D8D8D8;
 }
    
 .quem-somos {
     background-color: #848484;
+    color: white
 }
 
 .margin{
