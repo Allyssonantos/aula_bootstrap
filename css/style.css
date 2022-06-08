@@ -1,8 +1,9 @@
 body {
-    
+    font: 20px Arial, sans-seri;
 }
 .navbar {
     background-color: #D8D8D8;
+    color: white;
 }
    
 .quem-somos {
